@@ -1,4 +1,4 @@
-const CACHE = 'cracks-v16';
+const CACHE = 'cracks-v17';
 const ASSETS = [
   '/Cracks%20App.html',
   '/manifest.json',
